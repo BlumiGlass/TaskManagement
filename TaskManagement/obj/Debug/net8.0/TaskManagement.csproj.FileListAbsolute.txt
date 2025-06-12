@@ -1,0 +1,28 @@
+H:\Design Patterns\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+H:\Design Patterns\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+H:\Design Patterns\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+H:\Design Patterns\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+H:\Design Patterns\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+H:\Design Patterns\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+H:\Design Patterns\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+H:\Design Patterns\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+H:\Design Patterns\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+H:\Design Patterns\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+H:\Design Patterns\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+H:\Design Patterns\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+H:\Design Patterns\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+H:\Design Patterns\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
+H:\server\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+H:\server\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+H:\server\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+H:\server\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+H:\server\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+H:\server\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+H:\server\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+H:\server\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+H:\server\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+H:\server\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+H:\server\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+H:\server\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+H:\server\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
